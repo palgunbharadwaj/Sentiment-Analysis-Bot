@@ -60,10 +60,4 @@ The application uses a pre-trained sentiment analysis model from Hugging Face's 
 - transformers
 - torch
 
-## License
-
-This project is open source and available under the MIT License.
-
----
-
 Created with ❤️ using Python, Gradio, and Hugging Face Transformers
