@@ -10,7 +10,7 @@ A simple web application that performs sentiment analysis on text input using Hu
 
 ## Demo
 
-![Sentiment Analysis Demo](demo.png)
+![Sentiment Analysis Demo](https://raw.githubusercontent.com/palgunbharadwaj/Sentiment-Analysis-Bot/main/image-1.webp)
 *Screenshot of the Sentiment Analysis Bot in action*
 
 ## Getting Started
